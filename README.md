@@ -4,8 +4,6 @@
 
 Author: Christopher Davidson
 
-Email: Chris72092@aol.com
-
 LinkedIn: www.linkedin.com/in/smtcdavidson
 
 GitHub: https://github.com/PF-Hulk/
