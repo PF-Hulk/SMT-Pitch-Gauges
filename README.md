@@ -29,7 +29,7 @@
 2. Inspect gauges periodically for wear or damage to maintain measurement
    accuracy over time.
 3. Use ESD safe filament when 3D printing to reduce chances of damaging parts.
-4. I recomended Protopasta's Static Dissipative PLA (PLA1170-ESD) filament. The technical datasheet show a tested max 10^8 Ω using a Desco 19786.
+4. I recomended Protopasta's Static Dissipative PLA (PLA1170-ESD) filament. The technical datasheet show a tested max 10^8 Ω using a Desco 19786. I personally have validated this and is compliant with the strict ANSI/ESD S20.20-2021 standard.
 
 https://proto-pasta.com/products/static-dissipative-pla?variant=46005100708088.
 
