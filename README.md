@@ -16,12 +16,12 @@
 - 3D model files containing box to hold gauges with a lid
 
 ### Usage & Benefits:
-- Operators place the gauge on the feeder to confirm tape pitch alignment before
+- Operators place the gauge on the reel to confirm tape pitch alignment before
   loading components.
 - Minimizes misfeeds, pick errors, and subsequent rework by ensuring accurate
   feeder setups.
 - Speeds up new-operator training, providing a clear visual/tactile reference.
-- Gauges Embossed with applicable pitch
+- Allign same postion concers of ajacent embossed pockets to identitfy applicable pitch
 
 ### Implementation Tips:
 1. Integrate pitch checks into the standard feeder setup process to ensure
